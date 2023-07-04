@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2977002 */
+  src: url('iconfont.woff2?t=1638261696175') format('woff2'),
+       url('iconfont.woff?t=1638261696175') format('woff'),
+       url('iconfont.ttf?t=1638261696175') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="el-icon-third"], [class*=" el-icon-third"]/*这里有空格*/
+{
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-third-guide:before {
+  content: "\e630";
+  color: #1296db;
+}
+
