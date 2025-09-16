@@ -14,7 +14,6 @@ http://www.huasensetech.cn
 ## 终端介绍
 1. 移动端android、ios（hbuilder 5+app）
 2. pc web网页端
-3. 备注：本项目代码全开源，拨打电话 13645251009(微信同号)可以免费获取源代码，免费体验项目
 
 ## 软件架构
 后台：
